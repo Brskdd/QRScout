@@ -1,8 +1,19 @@
-# NOTE
-We changed to github pages. Please use https://frc2713.github.io/QRScout/ until we redirect http://scout.redhawkrobotics.org
+# Website
+https://hotprogramming.github.io/QRScout/
 
-# QRScout
-A QR Code Based Scouting System for FRC
+# How to Use
 
+To download all packages
+```bash
+npm install
+```
 
+To run development server
+```bash
+npm run dev
+```
 
+To build for deployment
+```bash
+npm run build
+```
