@@ -163,7 +163,6 @@
           "title": "Teleop Foul",
           "type": "counter",
           "defaultValue": 0,
-          "min": 0,
           "required": false
         }
       ]
